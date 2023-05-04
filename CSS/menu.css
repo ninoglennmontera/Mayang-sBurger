@@ -133,7 +133,7 @@ section nav .icon i:hover{
 } 
 
 .menu .menu_box .menu_card .menu_image img{
-    width: 100px;
+    width: 300px;
     height: 100%;
     object-fit: cover;
     object-position: center;
